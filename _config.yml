@@ -12,7 +12,7 @@ title                    : "Jiguang He/HomePage"
 title_separator          : "-"
 name                     : &name "Jiguang He"
 description              : &description "personal description"
-url                      : https://JiguangHeGBU.github.io #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jiguanghegbu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JiguangHeGBU/JiguangHeGBU.github.io"
 
