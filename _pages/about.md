@@ -12,8 +12,8 @@ Here introduce yourself briefly.
 Education
 ======
 2015.9–2018.11  University of Oulu (UOulu) Oulu, Finland
-Ph.D. in Communications Engineering,
-Supervisors: Prof. Tad Matsumoto (IEEE Fellow) and Prof. Markku Juntti (IEEE Fellow) 
+– Ph.D. in Communications Engineering
+– Supervisors: Prof. Tad Matsumoto (IEEE Fellow) and Prof. Markku Juntti (IEEE Fellow) 
 – Thesis: “Performance of MIMO and Non-Orthogonal Transmission in Lossy Forward Relay Networks”
 
 2010.9–2013.6  Xiamen University (XMU) Xiamen, China
