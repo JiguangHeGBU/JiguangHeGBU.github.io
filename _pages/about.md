@@ -28,12 +28,35 @@ Education
 
 Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* **2024.8 –Present  Great Bay University(GBU), Great Bay Area, China**
+  * **Associate Professor**
+    * Leading industrial and academy projects
+    * Supervise doctoral and master students, postdocs, and full-time researchers
+    * Teach all-level courses
+
+2022.3 –2024.8  Technology Innovation Institute (TII) Abu Dhabi, UAE
+Senior Researcher 
+– Leading multiple industrial collaboration projects
+– Leading research activities on holographic MIMO communications
+– Leading research activities on RIS-assisted integrated sensing and communications
+
+2022.3 –present  University of Oulu (UOulu) Oulu, Finland
+Adjunct Professor (Docent) 
+
+2021.8 –2022.3  Macau University of Science and Technology (MUST) Macau, China
+Assistant Professor 
+– International Institute of Next Generation Internet
+– Research on reconfigurable intelligent surface for joint localization and communications, AI for networking
+
+2018.12 –2021.8  University of Oulu (UOulu) Oulu, Finland
+Postdoctoral researcher 
+– Centre for Wireless Communications
+– Research on reconfigurable intelligent surface for joint localization and communications
+
+2013.8–2015.2  City University of Hong Kong (CityU) Hong Kong, China
+PhD Candidate 
+– State Key Laboratory of Terahertz and Millimeter Waves
+– Research on mmWave MIMO beam tracking
 
 Site-wide configuration
 ------
