@@ -29,10 +29,10 @@ Education
 Experience
 ======
 * **2024.8 –Present  Great Bay University(GBU), Great Bay Area, China**
-  * **Associate Professor**
-    * Leading industrial and academy projects
-    * Supervise doctoral and master students, postdocs, and full-time researchers
-    * Teach all-level courses
+  **Associate Professor**
+  * Leading industrial and academy projects
+  * Supervise doctoral and master students, postdocs, and full-time researchers
+  * Teach all-level courses
 
 2022.3 –2024.8  Technology Innovation Institute (TII) Abu Dhabi, UAE
 Senior Researcher 
