@@ -11,20 +11,20 @@ Here introduce yourself briefly.
 
 Education
 ======
-* 2015.9–2018.11  University of Oulu (UOulu) Oulu, Finland
+* **2015.9–2018.11  University of Oulu (UOulu) Oulu, Finland**
   * Ph.D. in Communications Engineering
   * Supervisors: Prof. Tad Matsumoto (IEEE Fellow) and Prof. Markku Juntti (IEEE Fellow) 
   * Thesis: “Performance of MIMO and Non-Orthogonal Transmission in Lossy Forward Relay Networks”
 
-2010.9–2013.6  Xiamen University (XMU) Xiamen, China
-M.S. in Communications Engineering,
-Supervisor: Prof. Lin Wang (IEEE Senior Member) 
-– Thesis: “Joint Source and Channel Coding Base on Protograph LDPC Codes
+* **2010.9–2013.6  Xiamen University (XMU) Xiamen, China**
+  * M.S. in Communications Engineering,
+  * Supervisor: Prof. Lin Wang (IEEE Senior Member) 
+  * Thesis: “Joint Source and Channel Coding Base on Protograph LDPC Codes
 
-2006.9 –2010.7  Harbin Institute of Technology (HIT) Harbin, China
-B.S. in Communications Engineering,
-Supervisor: Prof. Xiao Wang 
-– Thesis: “Design and Implementation of WSNs Based on Zigbee Protocol”
+* **2006.9 –2010.7  Harbin Institute of Technology (HIT) Harbin, China**
+  * B.S. in Communications Engineering,
+  * Supervisor: Prof. Xiao Wang 
+  * Thesis: “Design and Implementation of WSNs Based on Zigbee Protocol”
 
 Experience
 ======
