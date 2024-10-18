@@ -57,3 +57,15 @@ Experience
   * **PhD Candidate**
     * State Key Laboratory of Terahertz and Millimeter Waves
     * Research on mmWave MIMO beam tracking
+
+Research Visits
+======
+* **2017.2–2017.3  Japan Advanced Institute of Science and Technology, Japan**
+  * hosting professor: Prof. Tad Matsumoto
+  * topic: Lossy cooperative relaying
+* **2019.3–2019.6  Wärtsilä Oy, Finland**
+  * hosting professor: Prof. Tero Frondelius
+  * topic: Industrial Internet-of-Things
+* **2019.6–2019.9  Chalmers University of Technology, Sweden**
+  * hosting professor: Prof. Henk Wymeersch
+  * topic: Reconfigurable intelligent surface for localization and communications
