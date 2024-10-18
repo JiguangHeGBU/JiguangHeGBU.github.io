@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Awards & Activities"
-permalink: /portfolio/
+permalink: /Awards_Activities/
 author_profile: true
 ---
 
