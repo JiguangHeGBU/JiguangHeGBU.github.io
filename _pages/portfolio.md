@@ -18,8 +18,8 @@ Awards
 
 Professional Activities
 =====
-* IEEE TVT, Associate Editor 2023–Current
-* IEEE Senior Member 2022–Current
+* IEEE TVT, Associate Editor, 2023–Current
+* IEEE Senior Member, 2022–Current
 * WCSP Track chair 2023
 * ERC Project Reviewer 2023
 * Session Chair
@@ -30,4 +30,4 @@ Professional Activities
 * Journal Paper Review 2010–Current
   * IEEE Journal on Selected Areas in Communications, IEEE Transaction on Wireless Communications, IEEE Transaction on Signal processing, IEEE Transaction on Communications, IEEE Transaction on Vehicular Technology, IEEE Communications Letters, IEEE Wireless Communications Letters, IEEE Access, Journal of Communications and Networks, Physical Communication, etc.
 * Conference Paper Review 2010–Current
-  * IEEE GLOBECOM, IEEE ICC, IEEE WCNC, IEEE VTC, IEEE ISIT, IEEE SPWAC,
+  * IEEE GLOBECOM, IEEE ICC, IEEE WCNC, IEEE VTC, IEEE ISIT, IEEE SPWAC, etc.
