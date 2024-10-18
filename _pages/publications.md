@@ -65,4 +65,44 @@ Vehicular Technology, 2023
 
 Conference Papers
 ======
-1. 
+1. A. S. de Sena et al., “On the Sum Secrecy Rate of Multi-User Holographic MIMO Networks,” IEEE International Conference on Communications, Denver, CO, USA, 2024, pp. 4390-4396
+2. Y. Tian, A. Alhammadi, J. He, A. Fakhreddine and F. Bader, “Fairness-Driven Optimization of RIS-Augmented 5G Networks for Seamless 3D UAV Connectivity Using DRL Algorithms,” IEEE International Conference on Communications, Denver, CO, USA, 2024, pp. 5009-5014
+3. C. Vanwynsberghe, J. He and M. Debbah, “A Universal Framework for Holographic MIMO Sensing,” IEEE International Conference on Communications, Denver, CO, USA, 2024, pp. 2464-2469
+4. R. Schroeder, J. He and M. Juntti, “Near-Field Channel Estimation for Extremely-Large Single-RF-Chain RIS Systems,” IEEE 25th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Lucca, Italy, 2024, pp. 266-270
+5. L. Terças, R. Schroeder, J. He and M. Juntti, “Indoor Positioning with Probabilistic Graphical Models in RIS-Enhanced mmWave MIMO Systems,” Joint European Conference on Networks and Communications 6G Summit (EuCNC/6G Summit), Antwerp, Belgium, 2024, pp. 511-516
+6. X. Gan et al., “Toward a Unified Analytical Framework for ISAC Fundamentals in Cellular Networks,” IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore, Singapore, 2024, pp. 1-6
+7. R. Ji et al., “Superdirectivity-Based Electromagnetic Hybrid Beamforming for Holographic Communications,” IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore, Singapore, 2024, pp. 1-6
+8. C Vanwynsberghe, J He, C Huang, M Debbah, “Walsh Meets OAM in Holographic MIMO”, ICEAA IEEE AWPC, 2023 (best paper award).
+9. J He, A Fakhreddine, AS de Sena, Y Tian, M Debbah, “Unleashing 3D Connectivity in Beyond 5G Networks with Reconfigurable Intelligent Surfaces”, Asilomar Conference on Signals, Systems, and Computers, 2023.
+10. T Gong, C Huang, J He, M Di Renzo, M Debbah, and C Yuen, “A Transmit-Receive Parameter Separable Electromagnetic Channel Model for LoS Holographic MIMO”, IEEE Globecom, 2023.
+11. D Wang, C Huang, J He, C Zhu, W Wang, X Chen, Z Zhang, Z Han, M Debbah, “Waveform Precoding Design for Mobile Crowd ISCC System using Mean Field Game”, IEEE Globecom, 2023.
+12. T Ning, G Cai, K Xie, J He, “An Adaptive Scheme for Energy Buffer-Aided Wireless-Powered Cooperative NOMA System”, IEEE International Conference on Internet of Things, 2023.
+13. J. He, A. Fakhreddine, H. Wymeersch, G C. Alexandropoulos. “Compressed-Sensing-Based 3D Localization with Distributed Passive Reconfigurable Intelligent Surfaces”. IEEE ICASSP, 2023 (invited)
+14. J. He, A. Fakhreddine, G C. Alexandropoulos. “Joint Channel and Direction Estimation for Ground-to-UAV Communications Enabled by A Simultaneous Reflecting and Sensing RIS”. IEEE ICASSP , 2023
+15. J. He, A. Fakhreddine, G C. Alexandropoulos. “Simultaneous Indoor and Outdoor 3D Localization with STAR-RIS-Assisted Millimeter Wave Systems“. IEEE VTC Fall, 2022
+16. S. Qian, J. He, X. Zhou, T. Imai and T. Matsumoto, “Outage Analysis for Correlated Sources Coding over NOMA in Shadowed κ − µ Fading,” IEEE Wireless Communications and Networking Conference (WCNC), 2022, pp. 1999-2004.
+17. R. Schroeder, J. He and M. Juntti, “Channel Estimation for Hybrid RIS Aided MIMO Communications via Atomic Norm Minimization”, IEEE ICC, 2022.
+18. R. Schroeder, J. He and M. Juntti, “Passive RIS vs. Hybrid RIS: A Comparative Study on Channel Estimation,” IEEE 93rd Vehicular Technology Conference (VTC2021-Spring), 2021, pp. 1-7.
+19. L. Kong, J. He, Y. Ai, S. Chatzinotas and B. Ottersten, “Channel Modeling and Analysis of Reconfigurable Intelligent Surfaces Assisted Vehicular Networks,” IEEE International Conference on Communications Workshops (ICC Workshops), 2021, pp. 1-6.
+20. L. Kong, J. He, Y. Ai, S. Chatzinotas and B. Ottersten, “Effective Rate Evaluation with Assistance of Mixture Gamma (MG), Mixture of Gaussian (MoG), and Fox’s H-Function Distributions,” IEEE 93rd Vehicular Technology Conference (VTC2021-Spring), 2021, pp. 1-5.
+21. S. Qian, J. He, X. Zhou, T. Imai and T. Matsumoto, “Outage Analysis for Correlated Sources Coding over NOMA in Shadowed κ − µ Fading,” IEEE Wireless Communications and Networking Conference (WCNC), 2022, pp. 1999-2004.
+22. J. He, H. Wymeersch, M. Juntti, “Channel Estimation for RIS-Aided mmWave MIMO Channels”, in Proc. of IEEE Globecom, Taipei, Dec 7-11, 2020.
+23. J. He, L. Kong, T. Frondelius, O. Silven, M. Juntti, “Decision Triggered Data Transmission and Collection in Industrial Internet of Things”, in Proc. of IEEE WCNC, Seoul, South Korea, April 6-9, 2020.
+24. J. He, H Wymeersch, T Sanguanpuak, O Silven, M Juntti, “Adaptive beamforming design for mmwave RIS-aided joint localization and communication”, in Proc. of IEEE WCNC, Seoul, South Korea, April 6-9, 2020.
+25. J. He, H Wymeersch, L Kong, O Silven, M Juntti, “ Large intelligent surface for positioning in millimeter wave MIMO systems”, in Proc. of IEEE VTC, Antwerp, Belgium, May 25-28, 2020.
+26. J. He, M. Leinonen, K. Nguyen, Y. Li, O. Silvén, M. Juntti, “Power Allocation for Distributed Compressive Sensing with 1-Bit Quantization over Noisy Channels ”, in Proc. of IEEE ISWCS, Oulu, Finland, August 27-30, 2019.
+27. L. Kong, Y. Ai, J. He, N. Rajatheva, G. Kaddoum, “Intercept Probability Analysis over the Cascaded Fisher-Snedecor F Fading Wiretap Channels”, in Proc. of IEEE ISWCS, Oulu, Finland, August 27-30, 2019.
+28. A. Padmanabhan, V. Tervo, J. He, M. Juntti, T. Matsumoto, “Minimum Power Based Relay Selection for Orthogonal Multiple Access Relay Networks”, in proc. of EuCNC, Oulu, Finland, 2017.
+29. J. He, I. Hussain, M. Juntti, T. Matsumoto, “End-to-End Outage Probability Analysis for Multi-Source Multi-Relay Systems”, in Proc. of IEEE ICC, Kuala Lumpur, Malaysia, May 23-27, 2016.
+30. J. He, I. Hussain, M. Juntti, T. Matsumoto, “Transmission of Correlated Sources over Non-Orthogonal Gaussian MACs”, in Proc. of IEEE ICC, Kuala Lumpur, Malaysia, May 23-27, 2016.
+31. J. He, I. Hussain, S. Qian, M. Juntti, T. Matsumoto, “On the Performance of Dynamic Multi-Source Multi-Antenna Multi-Relay Wireless Networks”, in Proc. of EW, Oulu, Finland, May 18-20, 2016.
+32. J. He, I. Hussain, V. Tervo, M. Juntti, T. Matsumoto, “Performance Analysis for Transmission of Correlated Sources over Non-Orthogonal MARCs”, in proc. of IEEE ISTC, Brest, France, September 5-9, 2016.
+33. S. Qian, V. Tervo, J. He, M. Juntti, T. Matsumoto, “A Comparative Study of Different Relaying Strategies over One-Way Relay Networks”, in Proc. of EW, Oulu, Finland, May 18-20, 2016.
+34. L. Kong, J. He, G. Kaddoum, S. Vuppala, L. Wang, “Secrecy Analysis of A MIMO Full-Duplex Active Eavesdropper with Channel Estimation Errors”, in proc. of IEEE VTC fall, Montreal, Canada, September 18-21, 2016.
+35. S. Qian, J. He, X. He, W. Jiang, M. Juntti, T. Matsumoto, “Line-of-Sight Component Impact Analyses for Lossy Forward Relaying over Fading Channels Having Different Statistical Properties” in proc. of IEEE VTS APWCS, Tokyo, Japan, August 25-26, 2016.
+36. S. Qian, J. He, M. Juntti, T. Matsumoto, “Performance Analysis for Multi-Source Multi-Relay Transmission over k-mu fading Channels”, in proc. of Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, USA, November 6-9, 2016.
+37. J. He, T. Kim, H. Ghauch, K. Liu, G. Wang, “Millimeter Wave MIMO Channel Tracking Systems,” in proc. of IEEE Globecom, Austin, USA, 2014.
+38. L. Xu, H. Wu, J. He, L. Wang, “Unequal error protection for radiography image transmission using protograph double LDPC codes,” in Proc. of IEEE WTS, Phoenix, USA, April 17-19, 2013.
+39. J. He, L. Wang and P. Chen, “A Joint Source and Channel Coding Scheme Base on Simple Protograph Structured Codes,” in Proc. of ISCIT, Queensland, Australia, Oct. 2012.
+40. P. Chen, L. Wang and J. He, “Physical-layer network coding and precoding for end nodes using Alamouti scheme,” in Proc. of ISCIT, Queensland, Australia, Oct. 2012.
+41. H. Wu, J. He, L. Xu, L. Wang, “Joint Source-Channel Coding Based on P-LDPC Codes for Radiography Images Transmission”, in Proc. of IEEE IUCC, Liverpoool, UK, June 25-27th, 2012.
