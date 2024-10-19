@@ -9,6 +9,9 @@ redirect_from:
 
 Here introduce yourself briefly.
 
+**Research Interests:**
+Energy-effcient connectivity, 6G Wireless communications, Reconfigurable intelligent surface, Radio localization and sensing
+
 Education
 ======
 * **2015.9–2018.11  University of Oulu (UOulu) Oulu, Finland**
