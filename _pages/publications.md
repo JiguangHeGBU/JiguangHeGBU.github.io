@@ -106,3 +106,21 @@ Conference Papers
 39. J. He, L. Wang and P. Chen, “A Joint Source and Channel Coding Scheme Base on Simple Protograph Structured Codes,” in Proc. of ISCIT, Queensland, Australia, Oct. 2012.
 40. P. Chen, L. Wang and J. He, “Physical-layer network coding and precoding for end nodes using Alamouti scheme,” in Proc. of ISCIT, Queensland, Australia, Oct. 2012.
 41. H. Wu, J. He, L. Xu, L. Wang, “Joint Source-Channel Coding Based on P-LDPC Codes for Radiography Images Transmission”, in Proc. of IEEE IUCC, Liverpoool, UK, June 25-27th, 2012.
+
+Books
+=====
+1. G. C. Alexandropoulos, H. Kim, J. He, and H. Wymeersch. “Localization, Sensing, and Their Integration with RISs”. Wiley, 2023
+2. J. He, C Huang, L Wei, Y Xu, A Al Hammadi, and M Debbah. “Technological Evolution from RIS to Holographic MIMO”. IntechOpen, 2023
+
+White Papers
+=====
+1. Jiguang He, et al. “6G Near-Field Technologies ”, FuTURE Forum.
+2. Jiguang He, et al. “reconfigurable intelligent surface technology white paper”, RISTA.
+3. Jiguang He, et al., “AI and ML–Enablers for beyond 5G Networks”, 5G-PPP.
+
+Patents
+=====
+1. Rong Wen, Kunpeng Liu, Jiguang He, Taejoon Kim, “Beam Tracking Method, Apparatus, and System”, US Patent no. 10320457 (main investigator).
+2. Ahmed Ali Ahmed Alqayed Alhammadi, Jiguang He “Enhanced Self-Localization for Drones Using Reconfigurable Intelligent Surfaces and Fusion Algorithm Integration” US patent (Application No. 63/605,026), 2024
+3. Aymen Fakhreddine, Jiguang He, Unmanned Aerial Vehicle Detection and Localization with Cellular Network Infrastructure Augmented by Reconfigurable Intelligent Surfaces, UAE patent, 2023
+4. Aymen Fakhreddine, Jiguang He, Unmanned Aerial Vehicle Detection and Localization with Cellular Network Infrastructure Augmented by Reconfigurable Intelligent Surfaces, US patent (Application No. 18/692,200), 2023
