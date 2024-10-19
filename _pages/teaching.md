@@ -19,6 +19,6 @@ author_profile: true
 Students
 =====
 * **Rafaela Schroeder: PhD student, 2019–Current**
- * *RIS channel estimation, Co-supervised with Prof. Markku Juntti*
+  * *RIS channel estimation, Co-supervised with Prof. Markku Juntti*
 * **Anton Paatelma: Master student, Gradulation: 2021**
- * *Master Thesis: 802.11 Payload Iterative Decoding Between Multiple Transmission Attempts, Co-supervised with Prof. Markku Juntti*
+  * *Master Thesis: 802.11 Payload Iterative Decoding Between Multiple Transmission Attempts, Co-supervised with Prof. Markku Juntti*
