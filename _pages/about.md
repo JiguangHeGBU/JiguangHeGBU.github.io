@@ -12,7 +12,7 @@ Jiguang He is an Associate Professor and PhD advisor at the School of Informatio
 Dr. He has published over 40 IEEE journal papers, holds 3 U.S. patents, has contributed to two international book chapters, and authored three industry white papers. According to Google Scholar, his work has been cited over 2,100 times, with an h-index of 22. He has participated in several large-scale EU projects and Finland’s 6G Flagship program and is the principal investigator of a collaborative research project between Macau SAR and Guangdong Province. Currently, he serves as an Editor of the IEEE Transactions on Vehicular Technology, a reviewer for EU ERC projects, and has taken on roles such as Session Chair, Track Chair, and TPC member for various IEEE conferences. **He has received multiple Best Paper Awards and several IEEE journal Best Reviewer Awards, and has been named among Stanford/Elsevier World’s Top 2% Scientists.**
 
 *I have several positions available for research assistants, postdoctoral researchers, research fellows, and visiting students. In the fall of 2025, I will be recruiting several master and PhD students. You need to have a solid professional background, be proficient in mathematics and English, and have a good knowledge of at least one programming language, as well as be familiar with LaTeX. Interested students are welcome to contact me at: jiguang.he@gbu.edu.cn.*
-
+<marquee behavior="scroll" direction="left">这是滚动的文本</marquee>
 
 Education
 ======
